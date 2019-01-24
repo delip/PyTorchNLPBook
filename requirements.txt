@@ -1,0 +1,10 @@
+tqdm
+matplotlib
+nltk
+jupyter
+pandas
+seaborn
+scipy
+annoy
+numpy
+requests
