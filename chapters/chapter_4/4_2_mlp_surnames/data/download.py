@@ -45,7 +45,7 @@ def download_file_from_google_drive(id, destination):
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) is not 3:
+    if len(sys.argv) != 3:
         print("Usage: python download.py drive_file_id destination_file_path")
     else:
         # TAKE ID FROM SHAREABLE LINK
